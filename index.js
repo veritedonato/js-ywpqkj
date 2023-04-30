@@ -131,6 +131,7 @@ this.element.style.fontWeight="bold";
 
 this.element.innerHTML=t;
 
+document.body.appendChild(this.element);
 
 };
 
